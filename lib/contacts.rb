@@ -23,7 +23,7 @@ require 'pry'
                    value.shift
 
                 end
-                end
+                # end
           end
       end
    return contacts
