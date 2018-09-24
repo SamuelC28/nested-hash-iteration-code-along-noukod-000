@@ -19,7 +19,7 @@ require 'pry'
           info.each do |attribute, value|
 
                 if attribute == :favorite_ice_cream_flavors
-                  value.each do |flavor|
+                  # value.each do |flavor|
                    value.shift
 
                 end
